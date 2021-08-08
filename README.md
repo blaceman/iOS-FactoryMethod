@@ -280,7 +280,7 @@ Button *macBtn3 = [ButtonFactory
           createButtonWithType:MacButtonType];//macBtn的创建
 ```
 
-###适用性:
+### 适用性:
 
 工厂方法，适用于面向接口编程（programming to interface）与实现[依赖反转原则](https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%B5%96%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%88%99)。 下列情况可以考虑使用工厂方法模式：
 
